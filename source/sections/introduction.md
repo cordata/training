@@ -20,11 +20,9 @@ The training covers the following topics:
 * How did the HITECH Act change HIPAA;
 * What is expected of workforce members with access to systems that store PHI;
 	* What are the sanctions for knowingly violating HIPAA;
-* How does Catalyze address compliance.
+* How does Cordata address compliance.
 
 *********************
-We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps, and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security, and their own internal policies. We take care of everything else.
-
 
 So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
 
@@ -40,6 +38,3 @@ The goal of this training is to ensure that you understand the importance (and w
 So please - take the time to read through this carefully.
 
 
-*********************
-
-Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@catalyze.io](mailto:training@catalyze.io) with any questions or problems accessing the training.
