@@ -9,7 +9,7 @@ With an increasing move to this amorphous entity called the cloud, with its asso
 
 ###3. There are heavy penalties for violating it.
 
-If the OCR finds an organization to be in violation, the following actions may take place:
+If the OCR (Office for Civil Rights) finds an organization to be in violation, the following actions may take place:
 - Voluntary compliance;
 - Corrective action; and/or
 - Resolution agreement
