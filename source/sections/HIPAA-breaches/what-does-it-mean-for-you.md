@@ -18,11 +18,11 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 - Shield the key strokes when entering an access code to prevent others from seeing the code.
 - Follow the same guidelines for facility access as you would for password, including changing codes periodically; using complex codes that are not obvious; not sharing your access code or access badge; and, not allowing others to use your access rights to enter a facility or secure area.
 - Do not allow others to “tailgate”, or follow you into a restricted area.
-- Turn in your keys and your laptop to your supervisor or HR when you leave Catalyze
+- Turn in your keys and your laptop to your supervisor or HR when you leave Cordata
 
 ###Prevent Unauthorized Access to and Disclosure of Electronic PHI
 - Create complex passwords with a minimum of eight characters--at least one number, symbol and/or one letter. Use a mixture of capital and lower case letters. Do not use consecutive identical characters or all alphabetical groups or consecutive characters on the keyboard (e.g., aaaaaa, 111111, qwerty).
-- Do not use dictionary words (e.g., Catalyze, password123).
+- Do not use dictionary words (e.g., Cordata, password123).
 - Do not use your individual identifiers (names, driver’s license number, social security number).
 - If you suspect your password has been compromised or misused, you should immediately change the password, and report the incident to your supervisor.
 - Do not share or post passwords or user IDs on your computer. If someone asks to use your password, report it to your supervisor.
@@ -42,7 +42,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 Do NOT under any circumstances email or upload via attachments, any PHI data.
 
 
-**Violating Catalyze policies, federal regulations, and state laws and regulations can lead to disciplinary action – up to and including termination, personal fines, civil and criminal penalties and suspension of professional licenses.**
+**Violating Cordata policies, federal regulations, and state laws and regulations can lead to disciplinary action – up to and including termination, personal fines, civil and criminal penalties and suspension of professional licenses.**
 
 **You are responsible for understanding this information and any additional information necessary to comply with all laws and policies that affect your job.**
 
