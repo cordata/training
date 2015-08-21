@@ -1,6 +1,6 @@
 # Security
 
-This set of questions will help you gauge your understanding of the physical security requirements under HIPAA and the Catalyze policies in place to meet them.
+This set of questions will help you gauge your understanding of the physical security requirements under HIPAA and the Cordata policies in place to meet them.
 
 
 ---
@@ -27,6 +27,6 @@ It is ok to backup my laptop onto a portable external drive
 - [ ] `Yes`
 - [x] `No`
 
-> This is only permitted if the external drive is also encrypted. We recommend backing everything up to the company Box account.
+> This is only permitted if the external drive is also encrypted. We recommend backing everything up to the company Drive account.
 
 ---
