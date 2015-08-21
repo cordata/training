@@ -4,20 +4,20 @@ This is to ensure that you know whom to reach out to in case you have any questi
 
 ----
 Who is the Chief Privacy Officer?
-- [ ] Brian Lewis
-- [ ] Ben Uphoff
-- [ ] Adam Leko
-- [x] Travis Good
+- [ ] Eddie Sorrell
+- [ ] Andy Lawrence
+- [ ] Alex Meyer
+- [x] Thom Shumard
 
-> Travis Good is the Chief Privacy Officer.
+> Thom Shumard is the Chief Privacy Officer.
 
 Who is the Chief Security Officer?
-- [ ] Mike Ortiz
-- [x] Ben Uphoff
-- [ ] Adam Leko
-- [ ] Travis Good
+- [ ] Gary Winzenread
+- [x] Eddie Sorrell
+- [ ] Terry Eaton
+- [ ] Barb Malik
 
-> Ben Uphoff is the Chief Security Officer.
+> Eddie Sorrell is the Chief Security Officer.
 
 
 
@@ -37,7 +37,7 @@ You receive some questions about the Catalyze BAA from one of our customers. You
 - [ ] `Account Manager`
 - [ ] `Chief Security Officer`
 
-> All BAA related questions should go to the Chief Privacy Officer. No changes should be made to any BAA without explicit consent / authorization from him / her. It is also fine to route this request to the Officer via the Account Manager or your direct manager
+> All BAA related questions should go to the Chief Privacy Officer. No changes should be made to any BAA without explicit consent / authorization from him / her. It is also fine to route this request to the Security Officer.
 
 
 You notice or suspect a partner or an employee trying to access customer data. You should:
