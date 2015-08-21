@@ -9,7 +9,7 @@ Cordata has a Security Officer and Privacy Officer appointed to assist in mainta
 - Assist in the administration and oversight of business associate agreements.
 - Assist Security Officer as needed
 
-**The Chief Security Officer for Cordata is Eddie Sorrell. You all have access to his email and phone number through our internal directory. Under this role, his responsibilities are to:
+**The Chief Security Officer for Cordata is Eddie Sorrell**. You all have access to his email and phone number through our internal directory. Under this role, his responsibilities are to:
 
 - Facilitating the training and supervision of all workforce members
 - Investigate and sanction of any workforce member that is in violation of Cordata security policies and non-compliance with the security regulations
