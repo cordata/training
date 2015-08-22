@@ -48,6 +48,3 @@ There are monetary penalties associated with HIPAA violations, and the amounts o
 
 
 In certain extreme HIPAA cases, individuals can be exposed to criminal risk as well. When criminal action is involved with HIPAA, the OCR hands the case off to The Department of Justice. Individuals are at risk of criminal enforcement and penalties if they “knowingly” obtain, disclose, or use PHI “in violation” of HIPAA rules. You can read a very detailed, legal opinion on what [constitutes](http://www.justice.gov/olc/hipaa_final.htm) legal vs civil in the case of HIPAA. There is a lengthy discussion of the terms “knowingly” and “in violation” in that document, which is why we put them in quotes.
-
-
-

@@ -36,5 +36,3 @@ The goal of this training is to ensure that you understand the importance (and w
 4. There are significant penalties associated with non-compliance to organizations and employees of those organizations. Lack of attention will impact not only us but our customers.
 
 So please - take the time to read through this carefully.
-
-

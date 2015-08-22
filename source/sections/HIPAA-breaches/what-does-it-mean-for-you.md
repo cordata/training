@@ -47,4 +47,3 @@ Do NOT under any circumstances email or upload via attachments, any PHI data.
 **You are responsible for understanding this information and any additional information necessary to comply with all laws and policies that affect your job.**
 
 If you have questions about what you must do, talk to us.
-
