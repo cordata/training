@@ -20,7 +20,17 @@ EOF
 
 #setup checks
   #does the `aws` command exist?
+  hash aws 2>/dev/null || { echo >&2 "aws commandline tools are required but not installed.  Follow the install instructions here: https://aws.amazon.com/cli/ ('pip install awscli' on a mac)."; exit 1; }
   #do we have AWS Environment variables set?
+  if [ -z "$AWS_SECRET_KEY" ]; then
+    echo "you must have AWS_SECRET_KEY defined as an environment variable."
+    exit 1
+  fi
+
+  if [ -z "$AWS_ACCESS_KEY" ]; then
+    echo "you must have AWS_ACCESS_KEY defined as an environment variable."
+    exit 1
+  fi
 
 #create/check for the ${BUCKET_NAME}
 EXISTS=`aws s3 ls s3://${BUCKET_NAME}`
