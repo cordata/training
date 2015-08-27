@@ -29,7 +29,7 @@ There are some other, more obscure reasons, for disclosures. The most relevant r
 In some select cases, in particular marketing, covered entities may disclose PHI but only with authorization from the individual.
 
 ##Minimum necessary
-One of the central tenants of HIPAA, as stated in the Privacy Rule, is minimum necessary use of PHI. The idea is relatively simple, don't disclose any information that is not necessary for the reason for which the information is to be used. Example - if you're trying to find out how much a patient owes for a particular procedure, you probably don't need to disclose that patients allergies. In healthcare today minimum necessary is usually observed by either specific HL7 or EDI X12 message types, which confine the amount and type of data in a data exchange.
+One of the central tenants of HIPAA, as stated in the Privacy Rule, is minimum necessary use of PHI. The idea is relatively simple, don't disclose any information that is not necessary for the reason for which the information is to be used. Example - if you're trying to find out how much a patient owes for a particular procedure, you probably don't need to disclose that patient's allergies. In healthcare today, minimum necessary is usually observed by either specific HL7 or EDI X12 message types, which confine the amount and type of data in a data exchange.
 
 ##Notice of Privacy Policies
 Covered entities must provide individuals with a notice informing those individuals of their rights, as well as detailing other factors such as the protections the covered entity use to secure PHI. You probably remember getting these, and signing them, every time you go to the doctor.
