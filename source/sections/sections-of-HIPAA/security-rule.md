@@ -12,9 +12,9 @@ There are other areas in this category including workforce security, contingency
 
 ## Physical
 
-This category is easy to understand as it’s the physical aspect of securing systems that have access to ePHI. It breaks out to workstations, facilities, and different portable and mobile media. Most data centers today, including the ones that we use at Catalyze, more than meet the requirements in the Security Rule for facilities. Typically compliant Infrastructure-as-a-Service vendors, like AWS and Rackspace, cover this category of HIPAA for you.
+This category is easy to understand as it’s the physical aspect of securing systems that have access to ePHI. It breaks out to workstations, facilities, and different portable and mobile media. Most data centers today, such as Rackspace, more than meet the requirements in the Security Rule for facilities. Typically compliant Infrastructure-as-a-Service vendors, like AWS and Rackspace, cover this category of HIPAA for you.
 
-Areas people sometimes neglect are office security and workstation security. These aren’t hard safeguards to meet but they likely involve some process changes, like not allowing cleaning people into your office without supervision, keeping doors locked and tracking visitors, encrypting employee computers, and using workstation firewalls. 
+Areas people sometimes neglect are office security and workstation security. These aren’t hard safeguards to meet, but they likely involve some process changes, like not allowing cleaning people into your office without supervision, keeping doors locked and tracking visitors, encrypting employee computers, and using workstation firewalls. 
 
 ## Technical
 
