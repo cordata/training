@@ -6,7 +6,7 @@ The HIPAA Security Rule can be broken down into the three main categories below.
 
 ## Administrative
 
-This is actually the largest category of safeguards in the HIPAA Security Rule, accounting for over 50% of the rule. These are not server setting or specifics around technology, they are policies and processes that need to be followed to safeguard data. The biggest and most important area covered in this section, at least for people starting out on the journey towards compliance, is the risk assessment. A risk assessment should be the first step for most organizations wanting to be compliant, and covers documenting architecture, identifying risks related to the protection of PHI, and mitigating those risks.
+This is actually the largest category of safeguards in the HIPAA Security Rule, accounting for over 50% of the rule. These are not server configuration settings or specifics around technology, they are policies and processes that need to be followed to safeguard data. The biggest and most important area covered in this section, at least for people starting out on the journey towards compliance, is the risk assessment. A risk assessment should be the first step for most organizations wanting to be compliant, and covers documenting architecture, identifying risks related to the protection of PHI, and mitigating those risks.
 
 There are other areas in this category including workforce security, contingency planning, training, and a few others, all of which are necessary to examine and address, but the risk assessment is really the big one in this category.
 
