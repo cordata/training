@@ -12,15 +12,15 @@ There are other areas in this category including workforce security, contingency
 
 ## Physical.
 
-This category is easy to understand as it’s the physical aspect of securing systems that have access to ePHI. It breaks out to workstations, facilities, and different portable and mobile media. Most data centers today, including the ones that we use at Catalyze, more than meet the requirements in the Security Rule for facilities. Typically compliant Infrastructure-as-a-Service vendors, like AWS and Firehost, cover this category of HIPAA for you.
+This category is easy to understand as it’s the physical aspect of securing systems that have access to ePHI. It breaks out to workstations, facilities, and different portable and mobile media. Most data centers today, including the ones that we use at Catalyze, more than meet the requirements in the Security Rule for facilities. Typically compliant Infrastructure-as-a-Service vendors, like AWS and Rackspace, cover this category of HIPAA for you.
 
 Areas people sometimes neglect are office security and workstation security. These aren’t hard safeguards to meet but they likely involve some process changes, like not allowing cleaning people into your office without supervision, keeping doors locked and tracking visitors, encrypting employee computers, and using workstation firewalls. 
 
 ## Technical.
 
-The technical category of safeguards is usually what people think of when they think of securing ePHI. The biggest areas are encryption, access controls, and auditing. With encryption, it has to be end to end, and it has to be at rest. At rest is typically harder. We have found that we need to use high performance SSD drives to improve performance issues that arise with encrypting data at rest.
+The technical category of safeguards is usually what people think of when they think of securing ePHI. The biggest areas are encryption, access controls, and auditing. With encryption, it has to be end to end, and it has to be at rest. At rest is typically harder. Our partner Catalyze uses high performance SSD drives to improve performance issues that arise with encrypting data at rest.
 
-For access controls and logging, basically all activity of servers should be logged and those logs should be monitored with appropriate alerting. All API calls should also be logged, including what was accessed (with ePHI at times), by whom, and when. We have spent a lot of time building a powerful and flexible unified logging solution to meet the requirements in this area.
+For access controls and logging, basically all activity of servers should be logged and those logs should be monitored with appropriate alerting. All API calls should also be logged, including what was accessed (with ePHI at times), by whom, and when. Our partner Catalyze provides a unified logging solution to meet the requirements in this area.
 
 Beyond the three areas above, there are a few miscellaneous requirements in the security rule. Those additional requirements relate to signing business associate agreements and having policies to, well, manage your policies.
 
