@@ -1,4 +1,4 @@
-##Overview
+##The Privacy Rule
 The HIPAA [Privacy Rule](http://www.hhs.gov/ocr/privacy/hipaa/understanding/summary/privacysummary.pdf) sets many of the terms used for HIPAA, outlines the types of entities that need to comply with HIPAA, defines appropriate uses or disclosures of health information, and also covers penalties for HIPAA violations. The Privacy Rule is important to understand, despite the fact that it doesn't include specific technical requirements or polices, as the Privacy Rule gives an understanding of the types of data, entities, and uses of data that HIPAA is concerned about.
 
 ##Entities
@@ -36,5 +36,3 @@ Covered entities must provide individuals with a notice informing those individu
 
 ##Penalties
 The Office of Civil Rights (OCR), within HHS, is responsible for enforcing the HIPAA rules. In addition to civil (financial) penalties, there are criminal penalties for knowingly disclosing PHI or obtain PHI in violation of the HIPAA Privacy Rule.
-##Overview
-The HIPAA [Privacy Rule](http://www.hhs.gov/ocr/privacy/hipaa/understanding/summary/privacysummary.pdf) sets many of the terms used for HIPAA, outlines the types of entities that need to comply with HIPAA, defines appropriate uses or disclosures of health information, and also covers penalties for HIPAA violations. The Privacy Rule is important to understand, despite the fact that it doesn't include specific technical requirements or polices, as the Privacy Rule gives an understanding of the types of data, entities, and uses of data that HIPAA is concerned about.
