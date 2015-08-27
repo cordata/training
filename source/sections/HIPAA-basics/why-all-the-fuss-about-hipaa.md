@@ -2,10 +2,11 @@
 
 Well, for three key reasons:
 
-###1. It is the right thing to do
+###1. It is the right thing to do.
+Our customer's depend on us to protect their data. It is our responsibility as partners to be diligent in protecting customer data.
 
-###2. The cloud
-With an increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy guidelines / standards need to be put into place.
+###2. The cloud.
+An increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy, requires guidelines / standards need to be put into place.
 
 ###3. There are heavy penalties for violating it.
 
@@ -14,7 +15,7 @@ If the OCR (Office for Civil Rights) finds an organization to be in violation, t
 - Corrective action; and/or
 - Resolution agreement
 
-There are monetary penalties associated with HIPAA violations, and the amounts of such violations were raised considerably last year as part of the HIPAA Omnibus Rule included in the HITECH act. The current financial penalties are listed below. Previous to these new rules, the fine associated with each HIPAA violation was capped at $25,000. This number is now **$1.5 million per violation**.
+There are monetary penalties associated with HIPAA violations, and the amounts of such violations were raised considerably as part of the HIPAA Omnibus Rule included in the HITECH act. The current financial penalties are listed below. Prior to these new rules, the fine associated with each HIPAA violation was capped at $25,000. This number is now **$1.5 million per violation**.
 
 <table>
 	<tbody>
