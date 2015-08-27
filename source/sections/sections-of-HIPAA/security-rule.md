@@ -1,4 +1,6 @@
-The HIPAA Security Rule operationalizes many of the standards set out in the Privacy Rule. Specifically the Security Rule spells out, in various levels of detail, the ways in which electronic protected health information, or ePHI, needs to be protected. The Security Rule, despite setting implementation specifications, isn’t all that specific most of the time.
+## The Security Rule##
+
+The HIPAA Security Rule operationalizes many of the standards set out in the Privacy Rule. Specifically the Security Rule spells out, in various levels of detail, the ways in which ePHI needs to be protected. The Security Rule, despite setting implementation specifications, isn’t all that specific most of the time.
 
 The Security Rule is the section of HIPAA that gets most talked about by vendors like us and others with a background in technology. Many times developers and vendors focus specifically on the areas within the Security Rule to achieve compliance. Even with this area of focus, the specific technical controls only make up a minority of the HIPAA Security Rule.
 
