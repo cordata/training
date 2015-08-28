@@ -23,7 +23,7 @@ The information I access in computer systems may be audited by Cordata at any ti
 - [x] `True`
 - [ ] `False`
 
->  Our organization runs random audits to verify what users have accessed is appropriate for their assigned job responsibilities.
+>  Our organization may run random audits to verify what users have accessed is appropriate for their assigned job responsibilities.
 
 Joe Lewis (hypothetical name), the CTO of AllThingsPHI (hypothetical name) calls you and asks for his SSH key to be reset and sent to him at a particular email address. You should
 - [ ] `Do so immediately, the customer is always right`
