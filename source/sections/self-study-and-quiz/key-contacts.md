@@ -30,7 +30,7 @@ You have questions and concerns about training - compliance or security related.
 > All training related concerns should be communicated either to the Chief Privacy Officer or your manager.
 
 
-You receive some questions about the Catalyze BAA from one of our customers. You should reach out to:
+You receive some questions about the Cordata BAA from one of our customers. You should reach out to:
 
 - [x] `Chief Privacy Officer`
 - [ ] `Chief Product Officer`
