@@ -9,7 +9,7 @@ Customer or customer's data can be cached for future reference within your lapto
 - [ ] `Yes`
 - [x] `No`
 
-> Customer data should not be stored on your laptop. It may be necessary to have ePHI for troubleshooting an account through a support request. but this data is to not permanently reside on your laptop.
+> Customer data should not be stored on your laptop. It may be necessary to have ePHI for troubleshooting an account through a support request, but this data is to not permanently reside on your laptop.
 
 It is ok to walk away from you computer without locking it or logging off
 - [ ] `Yes`
