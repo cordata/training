@@ -19,7 +19,7 @@ What is the Cordata policy for password strength?
 
 > Do not use easy to guess passwords while ensuring a high degree on entropy. When choosing a password, it is important to make sure it isn’t easy for others to guess.  Your password is something you need to protect at all times.
 
-The information I access in computer systems may be audited by Catalyze Inc. at any time.
+The information I access in computer systems may be audited by Cordata at any time.
 - [x] `True`
 - [ ] `False`
 
