@@ -76,7 +76,7 @@ Who protects PHI?
 - [ ] `Our auditors`
 - [ ] `Our customers`
 
-> The government protects PHI through the HIPAA regulations. Catalyze and you are required to protect health information through its practices and compliance with the HIPAA regulations.
+> The government protects PHI through the HIPAA regulations. Cordata and you are required to protect health information through its practices and compliance with the HIPAA regulations.
 
 
 If you suspect someone is violating the Cordata privacy policy, you should:
