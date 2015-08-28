@@ -5,11 +5,11 @@ This set of questions will help you gauge your understanding of the physical sec
 
 ---
 
-Customer or customer's data can be cached within your laptop
+Customer or customer's data can be cached for future reference within your laptop
 - [ ] `Yes`
 - [x] `No`
 
-> Customer data should not be ever downloaded locally onto your laptop.
+> Customer data should not be stored on your laptop. It may be necessary to have ePHI for troubleshooting an account through a support request. but this data is to not permanently reside on your laptop.
 
 It is ok to walk away from you computer without locking it or logging off
 - [ ] `Yes`
