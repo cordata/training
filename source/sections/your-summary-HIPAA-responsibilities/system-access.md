@@ -10,6 +10,8 @@ Since we manage critical systems potentially containing sensitive PHI informatio
     - Personal workstation passwords: minimum 8 characters, no dictionary words, at least one number and  upper case and lower case letters. Passwords must be changed every 90 days.
     - System level passwords: all access is primarily governed by SSH keys. VPN access is required as a first step. VPN password standards are much more stringent and will be communicated to you as and when required. It is not documented here to minimize risk. No default passwords should be used. Passwords must be encrypted.
 5. Ensure your personal workstation is set to log you off and / or lock if you step away from it.
-6. Do not use your laptop for any illegal or harmful activities. If you're not sure, don't do it.
+6. Properly lock or take your workstation with you when leaving for the day.
+7. Keep a clean desk, do not leave intellectual property or sensitive information available for others to see when away from your desk.
+8. Do not use your laptop for any illegal or harmful activities. If you're not sure, don't do it.
 
 
