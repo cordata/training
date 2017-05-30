@@ -5,8 +5,8 @@ This is to ensure that you know whom to reach out to in case you have any questi
 ----
 Who is the Chief Privacy Officer?
 - [ ] Eddie Sorrell
-- [ ] Andy Lawrence
-- [ ] Alex Meyer
+- [ ] Jon Stonis
+- [ ] Chanda Woodall
 - [x] Thom Shumard
 
 > Thom Shumard is the Chief Privacy Officer.
@@ -14,8 +14,8 @@ Who is the Chief Privacy Officer?
 Who is the Chief Security Officer?
 - [ ] Gary Winzenread
 - [x] Eddie Sorrell
-- [ ] Terry Eaton
-- [ ] Barb Malik
+- [ ] Thom Shumard
+- [ ] Laura Venerable
 
 > Eddie Sorrell is the Chief Security Officer.
 
@@ -54,6 +54,6 @@ In the above scenario, if the person you suspect is your supervisor, you should:
 - [ ] `Report the activity to the Chief Privacy Officer`
 - [ ] `Watch the person closely in order to determine that you are correct with your suspicions.`
 
-> The CSO is responsible for all investigations of privacy and security policy violations
+> The CSO (Security Officer) is responsible for all investigations of privacy and security policy violations
 
 ----

@@ -1,4 +1,4 @@
-# What Does It Mean For You
+Datica# What Does It Mean For You
 
 You are expected to be able to:
 1. Recognize PHI that requires protection,
@@ -32,7 +32,7 @@ HIPAA allows covered entities (CE) to create, receive, access, use, or disclose 
 - Health care or health plan operations—PHI can be used for quality assessment, case management, population-based activities such as disease management, accreditation, underwriting, legal and audit functions, fraud and abuse protection and compliance, and business management.
 
 There are other uses and disclosures where patient authorization is not required, including (and these are the ones that currently apply to us):
-- Business Associates – PHI may be used by contracted business associates to perform certain functions on a client's behalf. Business associates must sign a business associate agreement and agree to safeguard PHI. In a Catalyze context, we enter into BAAs with all of our clients as we provide infrastructural services to them. However, we have put guideline and technology in place to minimize, restrict and in some cases, eliminate access to PHI. As a contractor, we may not copy, use, or disclose PHI for any purpose other than specifically allowed in our Business Associate contract. If you inadvertently access or disclose PHI in ways not allowed in your contract, the law requires you to immediately report the disclosure to your supervisor or contract manager, and your company to report the breach to our client.
+- Business Associates – PHI may be used by contracted business associates to perform certain functions on a client's behalf. Business associates must sign a business associate agreement and agree to safeguard PHI. In a Datica context, we enter into BAAs with all of our clients as we provide infrastructural services to them. However, we have put guideline and technology in place to minimize, restrict and in some cases, eliminate access to PHI. As a contractor, we may not copy, use, or disclose PHI for any purpose other than specifically allowed in our Business Associate contract. If you inadvertently access or disclose PHI in ways not allowed in your contract, the law requires you to immediately report the disclosure to your supervisor or contract manager, and your company to report the breach to our client.
 
 
 **If you are not sure about whether or not you can use or disclose PHI, check with your manager or the Chief Security Officer.**

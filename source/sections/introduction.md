@@ -3,6 +3,8 @@
 * **Intended Audience**: All new workforce members
 * **Intended Frequency**: Annually
 
+last modified: May 30, 2017
+
 **********************
 
 ##Summary of Training

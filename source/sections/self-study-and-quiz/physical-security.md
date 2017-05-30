@@ -27,6 +27,6 @@ It is ok to backup my laptop onto a portable external drive
 - [ ] `Yes`
 - [x] `No`
 
-> We recommend backing everything up to the company Drive account.
+> We recommend backing everything up to the company Google Drive account.
 
 ---

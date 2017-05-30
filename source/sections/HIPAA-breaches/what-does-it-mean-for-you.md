@@ -1,4 +1,4 @@
-# Preventing Breaches
+Datica# Preventing Breaches
 
 A breach is the unauthorized acquisition, access, use, or disclosure of PHI that compromises the privacy or security of the PHI. We are all responsible for protecting our members’ and patients’ confidential information. If a breach occurs, immediately notify your supervisor or the Chief Security Officer.
 
@@ -32,7 +32,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 
 ###Provide Physical Security for Portable Computing and Storage Devices
 
-- Store confidential information such as PHI only on Catalyze’s secured network severs. Never store PHI on a laptop or other portable, endpoint device.
+- Store confidential information such as PHI only on Datica’s secured network severs. Never store PHI on a laptop or other portable, endpoint device.
 - Know where your portable devices (laptop, PDA, cell phone, hand-held device, mp3 player, flash or jump drive, CD or DVD, etc.) are at all times. Never check them as baggage or leave them unattended or unsecured at home, work, or in transit.
 - Whenever you leave your work area, make sure your laptop is secured by a locking cable, or securely locked in the docking station.
 - If you are leaving for the day, take the laptop or other device with you or lock it in a desk or cabinet. If your device is stolen or lost, immediately report the loss to your supervisor.

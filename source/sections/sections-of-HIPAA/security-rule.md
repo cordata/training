@@ -8,7 +8,7 @@ The HIPAA Security Rule can be broken down into the three main categories below.
 
 ## Administrative
 
-This is actually the largest category of safeguards in the HIPAA Security Rule, accounting for over 50% of the rule. These are not server configuration settings or specifics around technology, they are policies and processes that need to be followed to safeguard data. The biggest and most important area covered in this section, at least for people starting out on the journey towards compliance, is the risk assessment. A risk assessment should be the first step for most organizations wanting to be compliant, and it covers documenting architecture, identifying risks related to the protection of PHI, and mitigating those risks.
+This is actually the largest category of safeguards in the HIPAA Security Rule, accounting for over 50% of the rule. These are not server configuration settings or specifics around technology, they are policies and processes that need to be followed to safeguard a. The biggest and most important area covered in this section, at least for people starting out on the journey towards compliance, is the risk assessment. A risk assessment should be the first step for most organizations wanting to be compliant, and it covers documenting architecture, identifying risks related to the protection of PHI, and mitigating those risks.
 
 There are other areas in this category including workforce security, contingency planning, training, and a few others, all of which are necessary to examine and address, but the risk assessment is really the big one in this category.
 
@@ -20,9 +20,9 @@ Areas people sometimes neglect are office security and workstation security. The
 
 ## Technical
 
-The technical category of safeguards is usually what people think of when they think of securing ePHI. The biggest areas are encryption, access controls, and auditing. With encryption, it has to be end to end, and it has to be at rest. At rest is typically harder. Our partner Catalyze uses high performance SSD drives to improve performance issues that arise with encrypting data at rest.
+The technical category of safeguards is usually what people think of when they think of securing ePHI. The biggest areas are encryption, access controls, and auditing. With encryption, it has to be end to end, and it has to be at rest. At rest is typically harder. Our partner Datica uses high performance SSD drives to improve performance issues that arise with encrypting data at rest.
 
-For access controls and logging, basically all activity of servers should be logged and those logs should be monitored with appropriate alerting. All API calls should also be logged, including what was accessed (with ePHI at times), by whom, and when. Our partner Catalyze provides a unified logging solution to meet the requirements in this area.
+For access controls and logging, basically all activity of servers should be logged and those logs should be monitored with appropriate alerting. All API calls should also be logged, including what was accessed (with ePHI at times), by whom, and when. Our partner Datica provides a unified logging solution to meet the requirements in this area.
 
 Beyond the three areas above, there are a few miscellaneous requirements in the security rule. Those additional requirements relate to signing business associate agreements and having policies to manage your policies.
 
